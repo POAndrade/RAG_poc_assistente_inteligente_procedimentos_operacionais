@@ -1,0 +1,10 @@
+Procedimento de Compensação
+
+Responsável:
+Operações de Negócios
+
+Prazo:
+D+1
+
+Descrição:
+Os cheques recebidos devem ser enviados para compensação eletrônica.

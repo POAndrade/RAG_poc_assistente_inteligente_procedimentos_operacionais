@@ -1,0 +1,7 @@
+Procedimento de Cobrança
+
+Responsável:
+Área de Cobrança
+
+Descrição:
+Toda cobrança inadimplente deve ser registrada no sistema XYZ.
